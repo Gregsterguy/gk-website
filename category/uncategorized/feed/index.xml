@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Creative Corner</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Greg Kaganyuk</description>
+	<lastBuildDate>Fri, 27 Jan 2023 07:16:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">203117122</site>	<item>
+		<title>How do I hire you as a writer or SEO expert?</title>
+		<link>/youre-awesome-how-do-i-hire-you-as-a-writer/</link>
+		
+		<dc:creator><![CDATA[Greg Kaganyuk]]></dc:creator>
+		<pubDate>Mon, 25 Apr 2022 18:00:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=257</guid>
+
+					<description><![CDATA[First and foremost, thank you for expressing your interest in hiring me as a writer. I believe I&#8217;ll be able to prove my worth and showcase my value for you quickly. My writing experience includes working on business tax websites and niche/hobby websites about nutrition, drones, and lock picking. My professional background includes cartography, drones, ... <a title="How do I hire you as a writer or SEO expert?" class="read-more" href="/youre-awesome-how-do-i-hire-you-as-a-writer/" aria-label="Read more about How do I hire you as a writer or SEO expert?">Read more</a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">257</post-id>	</item>
+	</channel>
+</rss>
